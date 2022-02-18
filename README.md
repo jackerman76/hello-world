@@ -1,1 +1,1 @@
-This is the README file for our project.
+This is the README file for part 1 of our lab project.
