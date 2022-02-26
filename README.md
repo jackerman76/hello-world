@@ -1,4 +1,4 @@
-This is the README file for part 1 of our lab project!
+This is the README file for our lab project!
 
 Our program takes in two user inputs and prints out the two things that they entered.
 
@@ -10,7 +10,7 @@ something2 = input("Please enter another thing.")
 print("These are the two things you entered: {} and {} ".format(something1, something2))
 ```
 # Contribution
-Pull requests are welcome from contributors, but please make a new issue to discuss intended changes.
+Pull requests are welcome from contributors, but please make a new issue to discuss intended changes before doing so.
 
 # LICENSE.md reasoning
 We decided to utilize the MIT licensen because it is very permissive and welcoming for developers looking to contribute to open-source projects as well as businesses looking to utilize our project.  We also chose this license because we are not concerned with profiting from our project. 
